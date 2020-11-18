@@ -1,0 +1,139 @@
+footer{
+    background-attachment: fixed;
+    background-image: linear-gradient(to left, #450b5c, #22136e);
+    height: auto;
+    width: 100%;
+    min-height: 50px;
+    text-align: center;
+    color: #ddd;
+    padding: 2%;
+}
+
+body{
+    background-color: white;
+    margin: 0 auto;
+    font-family:  Arial, sans-serif;
+}
+
+header{
+    background-image: linear-gradient(to left, #5d137d, #352099);
+    /*background-color:#671c87;*/
+    height: 70px;
+    width: 100%;
+}
+
+main{
+    margin: 0 auto;
+    position: relative;
+}
+
+
+nav{
+    background-image: linear-gradient(to left, #450b5c, #22136e);
+    /*background-color: #8531a8;*/
+    align-items: center;
+}
+
+nav a{
+    color:#ffffff;
+}
+
+img{
+    
+    width: 100%;
+    height: auto;
+}
+
+
+h1, h2, h3{
+    margin: 0;
+    /*font-family: "Roboto Slab", Helvetica, Arial, sans-serif;*/
+    font-family: Arial, sans-serif;
+    /*font-weight: 600;*/
+}
+
+p{
+font-family: Arial;
+font-size: 0.6em;
+}
+
+#divBusca{
+  background-color:#E0EEEE;
+  border:solid 2px #5F9EA0;
+  border-radius:10px;
+  width:300px;
+  height:32px;
+}
+
+#sobre{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #000000;
+}
+
+#servicos{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#suporte{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #000000;
+}
+
+#portifolio{
+    text-align: center;
+    display: flex;
+    background-color:burlywood;
+    flex-direction: column;
+    align-items: center;
+}
+
+.btn_func{
+    padding: 15px;
+    width: 40%;
+    float: right;
+}
+
+.sobre{
+    background-size: cover;
+    background-position: center;
+}
+
+.header-2{
+   width: 30%; 
+}
+
+/*DIV: imagens*/
+.logo{
+    padding: 15px;
+    width: 40%;
+    float: left;
+}
+
+.redes-sociais ul li{
+    margin-left: 15px;
+    display: inline-block;
+    list-style: none;
+    float: left;
+    object-fit: fill
+}
+
+.redes-sociais{    float:  left;
+}
+
+/*Images*/
+.image-redes{
+    object-fit: fill;
+}
+.image-logo{
+    width: 50px;
+    height: 40px;
+    object-fit: fill;
+    position: relative;
+}
