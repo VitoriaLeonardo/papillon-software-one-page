@@ -105,7 +105,7 @@ One Page - Papillon Software Programming
 </p>
 
 <h2>
-  Objetivo do projeto
+  Objetivo final do projeto
 </h2>
 
 <p align="justify">
